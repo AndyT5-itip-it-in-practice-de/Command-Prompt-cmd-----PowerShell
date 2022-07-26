@@ -1,0 +1,120 @@
+/*
+Fonts Included Here:
+
+	font-family: 'Montserrat', sans-serif;
+	font-family: 'Barlow', sans-serif;
+	font-family: 'Bitter', serif;
+	font-family: 'Bubblegum Sans', cursive;
+	font-family: 'Cabin', sans-serif;
+	font-family: 'Cabin Condensed', sans-serif;
+	font-family: 'Chelsea Market', cursive;
+	font-family: 'Dosis', sans-serif;
+	font-family: 'Emilys Candy', cursive;
+	font-family: 'Gentium Basic', serif;
+	font-family: 'Hind', sans-serif;
+	font-family: 'Karla', sans-serif;
+	font-family: 'Kaushan Script', cursive;
+	font-family: 'Muli', sans-serif;
+	font-family: 'Noto Sans', sans-serif;
+	font-family: 'Nunito', sans-serif;
+	font-family: 'Pacifico', cursive;
+	font-family: 'Permanent Marker', cursive;
+	font-family: 'Playfair Display', serif;
+	font-family: 'Poiret One', cursive;
+	font-family: 'Rochester', cursive;
+	font-family: 'Rubik', sans-serif;	
+	font-family: 'Sanchez', serif;
+	font-family: 'Special Elite', cursive;
+	font-family: 'Titillium Web', sans-serif;
+	font-family: 'Asap', sans-serif;
+	font-family: 'Satisfy', cursive;
+	font-family: 'Libre Franklin', sans-serif;
+	font-family: 'Pathway Gothic One', sans-serif;
+	font-family: 'Sintony', sans-serif;
+	font-family: 'Poppins', sans-serif;
+	
+*/
+@import url("https://fonts.googleapis.com/css?family=Alfa+Slab+One|Asap:400,400i,700|Barlow:400,400i,700|Bubblegum+Sans|Oswald:400,700|Pacifico|Bitter|Cabin:400,400i,700|Cabin+Condensed:400,700|Chelsea+Market|Dosis:400,700|Emilys+Candy|Gentium+Basic:400,400i,700|Hind:400,700|Karla:400,400i,700|Kaushan+Script|Libre+Franklin:400,400i,700|Montserrat:400,400i,700|Muli:400,400i,700|Noto+Sans:400,700|Nunito:400,400i,700|Pathway+Gothic+One|Permanent+Marker|Playfair+Display:400,400i,700|Poiret+One|Poppins:400,400i,700|Rochester|Rubik:400,400i,700|Sanchez:400,400i|Satisfy|Sintony:400,700|Special+Elite|Titillium+Web:400,400i,700&subset=cyrillic,cyrillic-ext,greek,greek-ext,latin-ext,vietnamese");
+/*
+Fonts Included Here:
+
+	font-family: 'Josefin Sans', sans-serif;
+	font-family: 'Kanit', sans-serif;
+	font-family: 'Sriracha', cursive;
+	font-family: 'Sarabun', sans-serif;
+	font-family: 'Lora', serif;
+	font-family: 'Chewy', cursive;
+	font-family: 'Waiting for the Sunrise', cursive;
+	font-family: 'Timmana', sans-serif;
+	font-family: 'Vollkorn', serif;
+	font-family: 'Noto Serif JP', serif;
+	font-family: 'Noto Sans JP', sans-serif;
+	font-family: 'Kosugi', sans-serif;
+	font-family: 'Kosugi Maru', sans-serif;
+	font-family: 'El Messiri', sans-serif;
+	font-family: 'Prompt', sans-serif;
+	font-family: 'PT Serif', serif;
+	font-family: 'Amiri', serif;
+	font-family: 'Architects Daughter', cursive;
+	font-family: 'Bangers', cursive;
+	font-family: 'Euphoria Script', cursive;
+	font-family: 'Quando', serif;
+	font-family: 'Varela Round', sans-serif;
+	font-family: 'Spectral', serif;
+	font-family: 'Black Han Sans', sans-serif;
+	font-family: 'Noto Sans KR', sans-serif;
+	font-family: 'Noto Serif KR', serif;
+	font-family: 'Nanum Gothic', sans-serif;
+	font-family: 'Nanum Myeongjo', serif;
+	font-family: 'Vidaloka', serif;
+	font-family: 'Cookie', cursive;
+	font-family: 'Livvic', sans-serif;
+	font-family: 'Manrope', sans-serif;
+	font-family: 'Handlee', cursive;
+	font-family: 'Archivo', sans-serif;
+	font-family: 'Bree Serif', serif;
+	font-family: 'Puritan', sans-serif;
+	font-family: 'Alice', serif;
+	font-family: 'Inter', sans-serif;
+    font-family: 'Cormorant Infant', serif;
+    font-family: 'IM Fell English SC', serif;
+    font-family: 'Libre Baskerville', serif;
+    font-family: 'Old Standard TT', serif;
+    font-family: 'Maven Pro', sans-serif;
+    font-family: 'Overpass', sans-serif;
+    font-family: 'Overpass Mono', monospace;
+    font-family: 'Noto Sans Telugu', sans-serif;
+    font-family: 'Ramabhadra', sans-serif;
+    font-family: 'Sree Krushnadevaraya', serif;
+    font-family: 'Righteous', cursive;
+    font-family: 'Signika', sans-serif;
+    font-family: 'Syne', sans-serif;
+    font-family: 'Mali', cursive;
+*/
+@import url("https://fonts.googleapis.com/css2?family=Kanit:ital,wght@0,400;0,700;1,400&family=Sarabun:ital,wght@0,400;0,700;1,400&family=Sriracha&family=Josefin+Sans:ital,wght@0,400;0,700;1,400&family=Chewy&family=Lora:ital,wght@0,400;0,700;1,400&family=Amiri:ital,wght@0,400;0,700;1,400&family=Timmana&family=Waiting+for+the+Sunrise&family=Vollkorn:ital,wght@0,400;0,700;1,400&family=Noto+Serif+JP:wght@400;700&family=Noto+Sans+JP:wght@400;700&family=Kosugi+Maru&family=Kosugi&family=El+Messiri:wght@400;700&family=Prompt:ital,wght@0,400;0,700;1,400&family=PT+Serif:ital,wght@0,400;0,700;1,400&family=Architects+Daughter&family=Bangers&family=Euphoria+Script&family=Quando&family=Varela+Round&family=Spectral:ital,wght@0,400;0,700;1,400&family=Noto+Sans+Telugu:wght@400;700&family=Ramabhadra&family=Sree+Krushnadevaraya&family=Noto+Sans+KR:wght@400;700&family=Noto+Serif+KR:wght@400;700&family=Nanum+Gothic:wght@400;700&family=Nanum+Myeongjo:wght@400;700&family=Black+Han+Sans&family=Vidaloka&family=Cookie&family=Manrope:wght@400;700&family=Livvic:ital,wght@0,400;0,700;1,400&family=Handlee&family=Archivo:ital,wght@0,400;0,700;1,400&family=Bree+Serif&family=Puritan:ital,wght@0,400;0,700;1,400&family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&family=Maven+Pro:wght@400;700&family=Old+Standard+TT:ital,wght@0,400;0,700;1,400&family=Alice&family=Inter:wght@400;500;700&family=Cormorant+Infant:ital,wght@0,400;0,700;1,400&family=Syne:wght@400;600;700&family=Mali:ital,wght@0,400;0,700;1,400&family=IM+Fell+English+SC&family=Overpass+Mono:wght@400;700&family=Overpass:ital,wght@0,400;0,700;1,400;1,700&family=Righteous&family=Signika:wght@400;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&display=swap");
+/*
+	Greek Fonts
+	font-family: 'Cardo', serif;
+	font-family: 'EB Garamond', serif;
+	font-family: 'Press Start 2P', cursive;
+	
+*/
+@import url("https://fonts.googleapis.com/css2?family=Cardo:ital,wght@0,400;0,700;1,400&family=EB+Garamond:ital,wght@0,400;0,700;1,400&family=Press+Start+2P&display=swap");
+/*
+	Korean Fonts
+	font-family: 'Cute Font', cursive;
+	font-family: 'Hi Melody', cursive;
+	font-family: 'Jua', sans-serif;
+	font-family: 'Nanum Pen Script', cursive;
+*/
+@import url("https://fonts.googleapis.com/css2?family=Cute+Font&family=Hi+Melody&family=Jua&family=Nanum+Pen+Script&display=swap");
+/*
+    Chinese Fonts
+    font-family: 'Noto Sans HK', sans-serif;
+    font-family: 'Noto Sans SC', sans-serif;
+    font-family: 'Noto Sans TC', sans-serif;
+    font-family: 'Noto Serif SC', serif;
+    font-family: 'Noto Serif TC', serif;
+*/
+@import url("https://fonts.googleapis.com/css2?family=Noto+Sans+HK:wght@400;700&family=Noto+Sans+SC:wght@400;700&family=Noto+Sans+TC:wght@400;700&family=Noto+Serif+SC:wght@400;700&family=Noto+Serif+TC:wght@400;700&display=swap");
