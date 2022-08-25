@@ -1,0 +1,43 @@
+Die Eigenschaft "Text" wurde fÅr dieses Objekt nicht gefunden. Vergewissern Sie sich, dass die Eigenschaft vorhanden 
+ist und festgelegt werden kann.
+In C:\Users\KRA4CR\Desktop\IT\!PowerShell\Powershell-Gui-Test_02062022\Gui-Test14--020622.ps1:25 Zeichen:1
++ $txtbx1.Text = ($installpath)
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [], RuntimeException
+    + FullyQualifiedErrorId : PropertyNotFound
+ 
+Get-Content : Der Pfad "C:\folderpath.txt" kann nicht gefunden werden, da er nicht vorhanden ist.
+In C:\Users\KRA4CR\Desktop\IT\!PowerShell\Powershell-Gui-Test_02062022\Gui-Test14--020622.ps1:324 Zeichen:13
++ $inputtxt = Get-Content $path_to_txtfile
++             ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (C:\folderpath.txt:String) [Get-Content], ItemNotFoundException
+    + FullyQualifiedErrorId : PathNotFound,Microsoft.PowerShell.Commands.GetContentCommand
+ 
+Get-Content : Der Zugriff auf den Pfad "C:\Users\KRA4CR\Desktop\IT\!PowerShell\Powershell-Gui-Test_02062022" wurde 
+verweigert.
+In C:\Users\KRA4CR\Desktop\IT\!PowerShell\Powershell-Gui-Test_02062022\Gui-Test14--020622.ps1:324 Zeichen:13
++ $inputtxt = Get-Content $path_to_txtfile
++             ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : PermissionDenied: (C:\Users\KRA4CR...i-Test_02062022:String) [Get-Content], Unauthorized 
+   AccessException
+    + FullyQualifiedErrorId : GetContentReaderUnauthorizedAccessError,Microsoft.PowerShell.Commands.GetContentCommand
+ 
+C:\Users\KRA4CR\Desktop\IT\!PowerShell\Powershell-Gui-Test_02062022
+
+GAC    Version        Location                                                                                         
+---    -------        --------                                                                                         
+True   v4.0.30319     C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.Windows.Forms\v4.0_4.0.0.0__b77a5c561934e089...
+.
+.
+C:\Users\KRA4CR\Desktop\IT\!PowerShell\Powershell-Gui-Test_02062022\xx_Images\DesktopWallper_Syntegon_02.png
+.
+.
+Es ist nicht mîglich, eine Methode fÅr einen Ausdruck aufzurufen, der den NULL hat.
+In C:\Users\KRA4CR\Desktop\IT\!PowerShell\Powershell-Gui-Test_02062022\Gui-Test14--020622.ps1:1178 Zeichen:1
++ $button33.Add_Click({  ##Restart
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [], RuntimeException
+    + FullyQualifiedErrorId : InvokeMethodOnNull
+ 
+
+

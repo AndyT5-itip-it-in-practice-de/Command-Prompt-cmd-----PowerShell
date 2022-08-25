@@ -1,0 +1,258 @@
+Get-Content : Der Pfad "C:\Users\KRA4CR\Desktop\!PowerShell\folderpath.txt" kann nicht gefunden werden, da er nicht 
+vorhanden ist.
+In C:\Users\KRA4CR\Desktop\IT\!PowerShell\Gui-Test\xx-Powershell_Gui_Start3.ps1:242 Zeichen:13
++ $inputtxt = Get-Content $path_to_txtfile
++             ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (C:\Users\KRA4CR...\folderpath.txt:String) [Get-Content], ItemNotFoundEx 
+   ception
+    + FullyQualifiedErrorId : PathNotFound,Microsoft.PowerShell.Commands.GetContentCommand
+ 
+
+GAC    Version        Location                                                                                         
+---    -------        --------                                                                                         
+True   v4.0.30319     C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.Windows.Forms\v4.0_4.0.0.0__b77a5c561934e089...
+Out-File : Ein Teil des Pfades "C:\Users\KRA4CR\Desktop\!PowerShell\Lfd_PCDrives.txt" konnte nicht gefunden werden.
+In C:\Users\KRA4CR\Desktop\IT\!PowerShell\Gui-Test\xx-Powershell_Gui_Start3.ps1:508 Zeichen:44
++ ... ee -gt 0} | Out-File -FilePath C:\Users\KRA4CR\Desktop\!PowerShell\Lf ...
++                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : OpenError: (:) [Out-File], DirectoryNotFoundException
+    + FullyQualifiedErrorId : FileOpenFailure,Microsoft.PowerShell.Commands.OutFileCommand
+ 
+Ausnahme beim Aufrufen von "Add" mit 1 Argument(en):  "Der Objektverweis wurde nicht auf eine Objektinstanz 
+festgelegt."
+In C:\Users\KRA4CR\Desktop\IT\!PowerShell\Gui-Test\xx-Powershell_Gui_Start3.ps1:532 Zeichen:9
++         $Lvi.SubItems.Add($allPSDrive[$i].Used)
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : NullReferenceException
+ 
+Ausnahme beim Aufrufen von "Add" mit 1 Argument(en):  "Der Objektverweis wurde nicht auf eine Objektinstanz 
+festgelegt."
+In C:\Users\KRA4CR\Desktop\IT\!PowerShell\Gui-Test\xx-Powershell_Gui_Start3.ps1:533 Zeichen:9
++         $Lvi.SubItems.Add($allPSDrive[$i].Free)
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : NullReferenceException
+ 
+Ausnahme beim Aufrufen von "Add" mit 1 Argument(en):  "Der Objektverweis wurde nicht auf eine Objektinstanz 
+festgelegt."
+In C:\Users\KRA4CR\Desktop\IT\!PowerShell\Gui-Test\xx-Powershell_Gui_Start3.ps1:532 Zeichen:9
++         $Lvi.SubItems.Add($allPSDrive[$i].Used)
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : NullReferenceException
+ 
+Ausnahme beim Aufrufen von "Add" mit 1 Argument(en):  "Der Objektverweis wurde nicht auf eine Objektinstanz 
+festgelegt."
+In C:\Users\KRA4CR\Desktop\IT\!PowerShell\Gui-Test\xx-Powershell_Gui_Start3.ps1:533 Zeichen:9
++         $Lvi.SubItems.Add($allPSDrive[$i].Free)
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : NullReferenceException
+ 
+Ausnahme beim Aufrufen von "Add" mit 1 Argument(en):  "Der Objektverweis wurde nicht auf eine Objektinstanz 
+festgelegt."
+In C:\Users\KRA4CR\Desktop\IT\!PowerShell\Gui-Test\xx-Powershell_Gui_Start3.ps1:532 Zeichen:9
++         $Lvi.SubItems.Add($allPSDrive[$i].Used)
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : NullReferenceException
+ 
+Ausnahme beim Aufrufen von "Add" mit 1 Argument(en):  "Der Objektverweis wurde nicht auf eine Objektinstanz 
+festgelegt."
+In C:\Users\KRA4CR\Desktop\IT\!PowerShell\Gui-Test\xx-Powershell_Gui_Start3.ps1:533 Zeichen:9
++         $Lvi.SubItems.Add($allPSDrive[$i].Free)
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : NullReferenceException
+ 
+Ausnahme beim Aufrufen von "Add" mit 1 Argument(en):  "Der Objektverweis wurde nicht auf eine Objektinstanz 
+festgelegt."
+In C:\Users\KRA4CR\Desktop\IT\!PowerShell\Gui-Test\xx-Powershell_Gui_Start3.ps1:532 Zeichen:9
++         $Lvi.SubItems.Add($allPSDrive[$i].Used)
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : NullReferenceException
+ 
+Ausnahme beim Aufrufen von "Add" mit 1 Argument(en):  "Der Objektverweis wurde nicht auf eine Objektinstanz 
+festgelegt."
+In C:\Users\KRA4CR\Desktop\IT\!PowerShell\Gui-Test\xx-Powershell_Gui_Start3.ps1:533 Zeichen:9
++         $Lvi.SubItems.Add($allPSDrive[$i].Free)
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : NullReferenceException
+ 
+Ausnahme beim Aufrufen von "Add" mit 1 Argument(en):  "Der Objektverweis wurde nicht auf eine Objektinstanz 
+festgelegt."
+In C:\Users\KRA4CR\Desktop\IT\!PowerShell\Gui-Test\xx-Powershell_Gui_Start3.ps1:532 Zeichen:9
++         $Lvi.SubItems.Add($allPSDrive[$i].Used)
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : NullReferenceException
+ 
+Ausnahme beim Aufrufen von "Add" mit 1 Argument(en):  "Der Objektverweis wurde nicht auf eine Objektinstanz 
+festgelegt."
+In C:\Users\KRA4CR\Desktop\IT\!PowerShell\Gui-Test\xx-Powershell_Gui_Start3.ps1:533 Zeichen:9
++         $Lvi.SubItems.Add($allPSDrive[$i].Free)
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : NullReferenceException
+ 
+Ausnahme beim Aufrufen von "Add" mit 1 Argument(en):  "Der Objektverweis wurde nicht auf eine Objektinstanz 
+festgelegt."
+In C:\Users\KRA4CR\Desktop\IT\!PowerShell\Gui-Test\xx-Powershell_Gui_Start3.ps1:532 Zeichen:9
++         $Lvi.SubItems.Add($allPSDrive[$i].Used)
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : NullReferenceException
+ 
+Ausnahme beim Aufrufen von "Add" mit 1 Argument(en):  "Der Objektverweis wurde nicht auf eine Objektinstanz 
+festgelegt."
+In C:\Users\KRA4CR\Desktop\IT\!PowerShell\Gui-Test\xx-Powershell_Gui_Start3.ps1:533 Zeichen:9
++         $Lvi.SubItems.Add($allPSDrive[$i].Free)
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : NullReferenceException
+ 
+Ausnahme beim Aufrufen von "Add" mit 1 Argument(en):  "Der Objektverweis wurde nicht auf eine Objektinstanz 
+festgelegt."
+In C:\Users\KRA4CR\Desktop\IT\!PowerShell\Gui-Test\xx-Powershell_Gui_Start3.ps1:532 Zeichen:9
++         $Lvi.SubItems.Add($allPSDrive[$i].Used)
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : NullReferenceException
+ 
+Ausnahme beim Aufrufen von "Add" mit 1 Argument(en):  "Der Objektverweis wurde nicht auf eine Objektinstanz 
+festgelegt."
+In C:\Users\KRA4CR\Desktop\IT\!PowerShell\Gui-Test\xx-Powershell_Gui_Start3.ps1:533 Zeichen:9
++         $Lvi.SubItems.Add($allPSDrive[$i].Free)
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : NullReferenceException
+ 
+Ausnahme beim Aufrufen von "Add" mit 1 Argument(en):  "Der Objektverweis wurde nicht auf eine Objektinstanz 
+festgelegt."
+In C:\Users\KRA4CR\Desktop\IT\!PowerShell\Gui-Test\xx-Powershell_Gui_Start3.ps1:532 Zeichen:9
++         $Lvi.SubItems.Add($allPSDrive[$i].Used)
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : NullReferenceException
+ 
+Ausnahme beim Aufrufen von "Add" mit 1 Argument(en):  "Der Objektverweis wurde nicht auf eine Objektinstanz 
+festgelegt."
+In C:\Users\KRA4CR\Desktop\IT\!PowerShell\Gui-Test\xx-Powershell_Gui_Start3.ps1:533 Zeichen:9
++         $Lvi.SubItems.Add($allPSDrive[$i].Free)
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : NullReferenceException
+ 
+Get-Content : Der Pfad "C:\Users\KRA4CR\Desktop\!PowerShell\Searchlist.txt" kann nicht gefunden werden, da er nicht 
+vorhanden ist.
+In C:\Users\KRA4CR\Desktop\IT\!PowerShell\Gui-Test\xx-Powershell_Gui_Start3.ps1:761 Zeichen:21
++     $inputtxtfile = Get-Content -Path $path_to_txtfile
++                     ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (C:\Users\KRA4CR...\Searchlist.txt:String) [Get-Content], ItemNotFoundEx 
+   ception
+    + FullyQualifiedErrorId : PathNotFound,Microsoft.PowerShell.Commands.GetContentCommand
+ 
+Out-File : Ein Teil des Pfades "C:\Users\KRA4CR\Desktop\!PowerShell\Searchlist.txt" konnte nicht gefunden werden.
+In C:\Users\KRA4CR\Desktop\IT\!PowerShell\Gui-Test\xx-Powershell_Gui_Start3.ps1:747 Zeichen:39
++ ... abl.Items | Out-File -FilePath C:\Users\KRA4CR\Desktop\!PowerShell\Se ...
++                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : OpenError: (:) [Out-File], DirectoryNotFoundException
+    + FullyQualifiedErrorId : FileOpenFailure,Microsoft.PowerShell.Commands.OutFileCommand
+ 
+Get-Content : Der Pfad "C:\Users\KRA4CR\Desktop\!PowerShell\Searchlist.txt" kann nicht gefunden werden, da er nicht 
+vorhanden ist.
+In C:\Users\KRA4CR\Desktop\IT\!PowerShell\Gui-Test\xx-Powershell_Gui_Start3.ps1:761 Zeichen:21
++     $inputtxtfile = Get-Content -Path $path_to_txtfile
++                     ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (C:\Users\KRA4CR...\Searchlist.txt:String) [Get-Content], ItemNotFoundEx 
+   ception
+    + FullyQualifiedErrorId : PathNotFound,Microsoft.PowerShell.Commands.GetContentCommand
+ 
+Get-Content : Der Pfad "C:\Users\KRA4CR\Desktop\!PowerShell\Searchlist.txt" kann nicht gefunden werden, da er nicht 
+vorhanden ist.
+In C:\Users\KRA4CR\Desktop\IT\!PowerShell\Gui-Test\xx-Powershell_Gui_Start3.ps1:761 Zeichen:21
++     $inputtxtfile = Get-Content -Path $path_to_txtfile
++                     ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (C:\Users\KRA4CR...\Searchlist.txt:String) [Get-Content], ItemNotFoundEx 
+   ception
+    + FullyQualifiedErrorId : PathNotFound,Microsoft.PowerShell.Commands.GetContentCommand
+ 
+Remove-Item : Der Pfad "C:\Users\KRA4CR\Desktop\!PowerShell\Result_list.txt" kann nicht gefunden werden, da er nicht 
+vorhanden ist.
+In C:\Users\KRA4CR\Desktop\IT\!PowerShell\Gui-Test\xx-Powershell_Gui_Start3.ps1:887 Zeichen:5
++     Remove-Item -path C:\Users\KRA4CR\Desktop\!PowerShell\Result_list ...
++     ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (C:\Users\KRA4CR...Result_list.txt:String) [Remove-Item], ItemNotFoundEx 
+   ception
+    + FullyQualifiedErrorId : PathNotFound,Microsoft.PowerShell.Commands.RemoveItemCommand
+ 
+Add-Content : Ein Teil des Pfades "C:\Users\KRA4CR\Desktop\!PowerShell\Result_list.txt" konnte nicht gefunden werden.
+In C:\Users\KRA4CR\Desktop\IT\!PowerShell\Gui-Test\xx-Powershell_Gui_Start3.ps1:912 Zeichen:58
++ ...  ListAll" | Add-Content C:\Users\KRA4CR\Desktop\!PowerShell\Result_li ...
++                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (C:\Users\KRA4CR...Result_list.txt:String) [Add-Content], DirectoryNotFo 
+   undException
+    + FullyQualifiedErrorId : GetContentWriterDirectoryNotFoundError,Microsoft.PowerShell.Commands.AddContentCommand
+ 
+Add-Content : Ein Teil des Pfades "C:\Users\KRA4CR\Desktop\!PowerShell\Result_list.txt" konnte nicht gefunden werden.
+In C:\Users\KRA4CR\Desktop\IT\!PowerShell\Gui-Test\xx-Powershell_Gui_Start3.ps1:913 Zeichen:133
++ ... ........" | Add-Content C:\Users\KRA4CR\Desktop\!PowerShell\Result_li ...
++                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (C:\Users\KRA4CR...Result_list.txt:String) [Add-Content], DirectoryNotFo 
+   undException
+    + FullyQualifiedErrorId : GetContentWriterDirectoryNotFoundError,Microsoft.PowerShell.Commands.AddContentCommand
+ 
+Add-Content : Ein Teil des Pfades "C:\Users\KRA4CR\Desktop\!PowerShell\Result_list.txt" konnte nicht gefunden werden.
+In C:\Users\KRA4CR\Desktop\IT\!PowerShell\Gui-Test\xx-Powershell_Gui_Start3.ps1:914 Zeichen:64
++ ... ammordner | Add-Content C:\Users\KRA4CR\Desktop\!PowerShell\Result_li ...
++                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (C:\Users\KRA4CR...Result_list.txt:String) [Add-Content], DirectoryNotFo 
+   undException
+    + FullyQualifiedErrorId : GetContentWriterDirectoryNotFoundError,Microsoft.PowerShell.Commands.AddContentCommand
+ 
+Add-Content : Ein Teil des Pfades "C:\Users\KRA4CR\Desktop\!PowerShell\Result_list.txt" konnte nicht gefunden werden.
+In C:\Users\KRA4CR\Desktop\IT\!PowerShell\Gui-Test\xx-Powershell_Gui_Start3.ps1:925 Zeichen:63
++ ... uchmuster | Add-Content C:\Users\KRA4CR\Desktop\!PowerShell\Result_li ...
++                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (C:\Users\KRA4CR...Result_list.txt:String) [Add-Content], DirectoryNotFo 
+   undException
+    + FullyQualifiedErrorId : GetContentWriterDirectoryNotFoundError,Microsoft.PowerShell.Commands.AddContentCommand
+ 
+Add-Content : Ein Teil des Pfades "C:\Users\KRA4CR\Desktop\!PowerShell\Result_list.txt" konnte nicht gefunden werden.
+In C:\Users\KRA4CR\Desktop\IT\!PowerShell\Gui-Test\xx-Powershell_Gui_Start3.ps1:926 Zeichen:133
++ ... ........" | Add-Content C:\Users\KRA4CR\Desktop\!PowerShell\Result_li ...
++                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (C:\Users\KRA4CR...Result_list.txt:String) [Add-Content], DirectoryNotFo 
+   undException
+    + FullyQualifiedErrorId : GetContentWriterDirectoryNotFoundError,Microsoft.PowerShell.Commands.AddContentCommand
+ 
+Add-Content : Ein Teil des Pfades "C:\Users\KRA4CR\Desktop\!PowerShell\Result_list.txt" konnte nicht gefunden werden.
+In C:\Users\KRA4CR\Desktop\IT\!PowerShell\Gui-Test\xx-Powershell_Gui_Start3.ps1:929 Zeichen:88
++ ...  Fullname | Add-Content C:\Users\KRA4CR\Desktop\!PowerShell\Result_li ...
++                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (C:\Users\KRA4CR...Result_list.txt:String) [Add-Content], DirectoryNotFo 
+   undException
+    + FullyQualifiedErrorId : GetContentWriterDirectoryNotFoundError,Microsoft.PowerShell.Commands.AddContentCommand
+ 
+Add-Content : Ein Teil des Pfades "C:\Users\KRA4CR\Desktop\!PowerShell\Result_list.txt" konnte nicht gefunden werden.
+In C:\Users\KRA4CR\Desktop\IT\!PowerShell\Gui-Test\xx-Powershell_Gui_Start3.ps1:930 Zeichen:133
++ ... ........" | Add-Content C:\Users\KRA4CR\Desktop\!PowerShell\Result_li ...
++                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (C:\Users\KRA4CR...Result_list.txt:String) [Add-Content], DirectoryNotFo 
+   undException
+    + FullyQualifiedErrorId : GetContentWriterDirectoryNotFoundError,Microsoft.PowerShell.Commands.AddContentCommand
+ 
+Get-Content : Der Pfad "C:\Users\KRA4CR\Desktop\!PowerShell\Result_list.txt" kann nicht gefunden werden, da er nicht 
+vorhanden ist.
+In C:\Users\KRA4CR\Desktop\IT\!PowerShell\Gui-Test\xx-Powershell_Gui_Start3.ps1:938 Zeichen:29
++             $inputtxtfile = Get-Content -Path $path_to_txtfile
++                             ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (C:\Users\KRA4CR...Result_list.txt:String) [Get-Content], ItemNotFoundEx 
+   ception
+    + FullyQualifiedErrorId : PathNotFound,Microsoft.PowerShell.Commands.GetContentCommand
+ 
+
+
