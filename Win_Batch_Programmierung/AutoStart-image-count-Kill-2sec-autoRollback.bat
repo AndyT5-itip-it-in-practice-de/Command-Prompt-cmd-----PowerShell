@@ -7,7 +7,7 @@ echo.
 ::# load txtfile count
 :: ####################################################
 
-set /p mytextfile=< counter.txt
+set /p mytextfile=< AutoStart-image-count.txt
 
 echo %mytextfile%
 echo %mytextfile%+1
@@ -20,7 +20,7 @@ SET /a SUM+=%WERT1%+%WERT2%
 
 echo %SUM%
 
-@echo %SUM% >counter.txt 
+@echo %SUM% >AutoStart-image-count.txt 
 
 :: ####################################################
 
@@ -46,16 +46,16 @@ echo.
 
 echo .
 :: #echo 1. Warte 1sec dann starte programm
-:: #Timeout /t 1
+:: #Timeout /t 2
 echo .
 
-start  mspaint "Start-image-count-Kill-1sec-autoRollback.bmp" /mov 100 200 /ren "* %~n0 *" /act ::#siz 50 50
+start  mspaint "AutoStart-image-count.bmp" /mov 100 200 /ren "* %~n0 *" /act ::#siz 50 50
 
 @echo %SUM%
 
 echo .
 echo 2. Warte 1sec dann kille programm
-Timeout /t 1
+Timeout /t 2
 
 echo .
 echo .
@@ -81,5 +81,5 @@ echo 3. Warte 1sec dann restart programm
 Timeout /t 1
 
 @echo %SUM%
-start Start-image-count-Kill-1sec-autoRollback.bat
+start AutoStart-image-count-Kill-2sec-autoRollback.bat
 exit
